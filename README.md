@@ -8,7 +8,7 @@ The notebook wa written with the following instructions in mind.
 3. Explain the use and purpose of at least five “Distributions” functions.
 4. Explain the use of seeds in generating pseudorandom numbers.
 
-The rendered notebook can be found here: https://github.com/andrewjscott/Programming-for-Data-Analysis-Assignment/blob/main/Numpy-random.ipynb
+The rendered notebook can be found here: https://github.com/andrewjscott/Programming-for-Data-Analysis-Assignment/blob/main/Numpy-random.ipynb     
 Alternatively, it can be viewed here: https://nbviewer.org/github/andrewjscott/Programming-for-Data-Analysis-Assignment/blob/main/Numpy-random.ipynb
 
 ### To rerun the analysis on your own machine
