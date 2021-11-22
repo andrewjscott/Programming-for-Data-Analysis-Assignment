@@ -1,8 +1,8 @@
 # Programming for Data Analysis Assignment
 
-This repository contains a Jupyter notebbook which looks at the numpy.random package, with a dicussion of many of the packages features and code examples of the package in use.
+This repository contains a Jupyter notebook that looks at the numpy.random package, with a discussion of many of the packages features and code examples of the package in use.
 
-The notebook wa written with the following instructions in mind.
+The notebook was written with the following instructions in mind.
 1. Explain the overall purpose of the package.
 2. Explain the use of the “Simple random data” and “Permutations” functions.
 3. Explain the use and purpose of at least five “Distributions” functions.
@@ -11,7 +11,7 @@ The notebook wa written with the following instructions in mind.
 The rendered notebook can be found here: https://github.com/andrewjscott/Programming-for-Data-Analysis-Assignment/blob/main/Numpy-random.ipynb     
 Alternatively, it can be viewed here: https://nbviewer.org/github/andrewjscott/Programming-for-Data-Analysis-Assignment/blob/main/Numpy-random.ipynb
 
-### To rerun the analysis on your own machine
+### To rerun the analysis on your machine
 1. Install Anaconda - https://www.anaconda.com/products/individual
   - Alternatively, if you already have Python installed, you can download the requirements.txt file and run pip3 install -r requirements.txt
 2. Install Cmder - https://cmder.net/
