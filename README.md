@@ -17,4 +17,6 @@ The rendered notebook can be found here: https://github.com/andrewjscott/Program
 3. Download this repository with the following command using Cmder - git clone https://github.com/andrewjscott/Programming-for-Data-Analysis-Assignment
 4. Enter the following command using Cmder - jupyter lab
 5. In the Jupyter tab that opens in your browser, navigate to the Numpy-random.ipynb file and open 
-6. Click on Run and then click on Run all cells.
+6. Click on Run and then click on Restart Kernal and Run all cells.
+  - Note: One cell will return an error on purpose, which may prevent subsequent calls from running. If this happens then select the cell below the error, click run, and 
+    select Run Selected Cell and All Below
