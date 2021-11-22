@@ -9,8 +9,7 @@ The notebook wa written with the following instructions in mind.
 4. Explain the use of seeds in generating pseudorandom numbers.
 
 The rendered notebook can be found here: https://github.com/andrewjscott/Programming-for-Data-Analysis-Assignment/blob/main/Numpy-random.ipynb
-
-**NB: As of 22 November 2021 some of the tags for the Table of Contents and Referencing are not rendered properly on github. Tags are visible and what were intended to be links do not work. Code and outputs are unaffected by this issue. The tags are rendered properly when the repository is cloned and the notebook opened in jupyter lab, however, so this is the recommended method for viewing the notebook.**
+Alternatively, it can be viewed here: https://nbviewer.org/github/andrewjscott/Programming-for-Data-Analysis-Assignment/blob/main/Numpy-random.ipynb
 
 ### To rerun the analysis on your own machine
 1. Install Anaconda - https://www.anaconda.com/products/individual
