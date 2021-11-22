@@ -10,6 +10,9 @@ The notebook wa written with the following instructions in mind.
 
 The rendered notebook can be found here: https://github.com/andrewjscott/Programming-for-Data-Analysis-Assignment/blob/main/Numpy-random.ipynb
 
+**NB: As of 22 November 2021 some of the tags for the Table of Contents and Referencing are not rendered properly on github. All the content is still accurate, but tags are visible and
+what were intended to be links do not work. The tags are rendered properly when the repository is cloned and the notebook opened in jupyter lab, however, so this is the recommended method for viewing the notebook.
+
 ### To rerun the analysis on your own machine
 1. Install Anaconda - https://www.anaconda.com/products/individual
   - Alternatively, if you already have Python installed, you can download the requirements.txt file and run pip3 install -r requirements.txt
