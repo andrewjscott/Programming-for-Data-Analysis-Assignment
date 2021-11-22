@@ -19,5 +19,5 @@ Alternatively, it can be viewed here: https://nbviewer.org/github/andrewjscott/P
 4. Enter the following command using Cmder - jupyter lab
 5. In the Jupyter tab that opens in your browser, navigate to the Numpy-random.ipynb file and open 
 6. Click on Run and then click on Restart Kernal and Run all cells.
-  - Note: One cell will return an error on purpose, which may prevent subsequent calls from running. If this happens then select the cell below the error, click run, and 
+  - Note: One cell will return an error on purpose, which may prevent subsequent calls from running. If this happens then select the cell below the error, click Run, and 
     select Run Selected Cell and All Below
